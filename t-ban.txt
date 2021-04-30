@@ -1,0 +1,1 @@
+toilet -f slant '           code by ak hub    '  -F gay | lolcat
